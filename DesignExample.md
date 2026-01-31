@@ -169,11 +169,11 @@ $$
 
 ---
 
-## Comparison and Remarks
+## Remarks
 
-The design values of the equivalent lateral force **V<sub>b</sub>** and the viscous damping force **$$PL^{-max}$$** obtained using the **proposed method** and the **conventional method** are summarized in the final steps of each calculation procedure.
+- The design values of the equivalent lateral force **V<sub>b</sub>** and the viscous damping force **$$PL^{-max}$$** obtained using the **proposed method** and the **conventional method** are summarized in the final steps of each calculation procedure.
+- The IR<sub>D</sub> and IR<sub>V</sub> are calculated using empirical equations.
 
-The results indicate that the **proposed method yields higher design forces** compared to the conventional approach.
 
 ---
 
